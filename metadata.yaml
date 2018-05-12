@@ -1,0 +1,37 @@
+_repo: Sun-and-Saddle-LeatherIncluding-Grass-Grown-Trails-and-New-Poems_36770
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Huffman, L. A. (Laton Alton)
+    alias: Huffman, Laton Alton
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '38435'
+    url: http://www.gutenberg.org/2009/agents/38435
+covers:
+- cover_type: archival
+  image_path: 36770-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, Badger
+    alias: Clark, Charles Badger
+    birthdate: 1883
+    deathdate: 1957
+    gutenberg_agent_id: '38464'
+    url: http://www.gutenberg.org/2009/agents/38464
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36770'
+  lccn: '19015903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Poetry'
+- !lcsh 'West (U.S.) -- Poetry'
+title: Sun and Saddle Leather
+url: http://www.gutenberg.org/ebooks/36770
